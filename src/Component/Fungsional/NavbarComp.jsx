@@ -29,7 +29,7 @@ const NavbarComp = (props) => {
             <NavItem>
               <NavLink href="/about">About</NavLink>
             </NavItem>
-          <NavbarText>PRODUCT</NavbarText>
+          <NavbarText>Product</NavbarText>
           </Nav>
         </Collapse>
         </Navbar>

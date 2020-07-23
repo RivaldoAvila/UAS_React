@@ -1,13 +1,13 @@
 import React from 'react';
 import {Jumbotron, Container} from 'reactstrap';
-import logo from ''
+import logo from '../Logo/LOGO_SEPATU002.png'
 
 const Homepage = (props) => {
     return (
         <div>
             <Jumbotron fluid>
                         <Container fluid>
-                            <h1 className="display-3"><img src={logo}></h1>
+                            <h1 className="display-3"><img src={logo}/></h1>
                             <p className="lead"> HypeBeast Store</p>
                             <p className="text-info">Created by: Rivaldo Avila Cantona</p>
                         </Container>
