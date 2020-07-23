@@ -11,7 +11,7 @@ const AboutComp = () => {
                 <Container fluid>
                     <h1 className="display-3"><img src={logo} /></h1>
                     <h1 className="display-3">HYPE BEAST STORE!</h1>
-                    <p className="lead">Selamat Datang Di Hype Beast Store yang menjual berbagai model baju,hoodie,dan tas yang bermerk brand </p>
+                    <p className="lead">Selamat Datang Di Hype Beast Store yang menjual berbagai model baju,hoodie,tas,dan sepatu yang bermerk brand </p>
                     <p className="lead">Alamat   : Jln.Jendral Soedirman No.99 Purwokerto </p>
                     <p className="lead">No WhatsApp  : 08995332444 </p>
                     <p className="lead">Instagram    : hypebeast.id </p>

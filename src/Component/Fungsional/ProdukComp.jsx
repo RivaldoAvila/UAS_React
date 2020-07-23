@@ -9,7 +9,7 @@ function ProductComp() {
             <Container>
                 <hr/>
                 <Card body inverse color="warning">
-                <h1>Produk</h1>
+                <h1>Product Hype Beast Store</h1>
                 </Card>
                 <Row>
                     <RowProduct/>
