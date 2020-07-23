@@ -29,10 +29,14 @@ const NavbarComp = (props) => {
             <NavItem>
               <NavLink href="/about">About</NavLink>
             </NavItem>
-          <NavbarText>Product</NavbarText>
-          </Nav>
+            <NavItem>
+              <NavLink href="/produk">Product</NavLink>
+            </NavItem>
+            </Nav>
         </Collapse>
+      
         </Navbar>
+        
     </div>
   );
 }
