@@ -7,6 +7,7 @@ import HomePage from './Component/Fungsional/HomePage';
 import AboutComp from './Component/Fungsional/AboutComp';
 import ProdukComp from './Component/Fungsional/ProdukComp';
 import { CartContext } from './CartContext';
+import Login from './Component/Fungsional/Login';
 
 
 
@@ -23,7 +24,8 @@ function App() {
       <Route exact path="/" component={HomePage}/>
       <Route exact path="/about" component={AboutComp}/>
       <Route exact path="/produk" component={ProdukComp}/>
-      
+      <Route exact path="/login" component={Login} />
+
 
 
       </Switch>
